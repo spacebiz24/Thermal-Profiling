@@ -28,3 +28,14 @@
 [Python Tkinter GUI Design Using ttkbootstrap - Complete Course](https://www.youtube.com/watch?v=0tM-l_ZsxjU)
 
 [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/)
+
+### GUI on startup
+[Convert GUI App to Real Program - Python to exe to setup wizard](https://www.youtube.com/watch?v=p3tSLatmGvU)
+
+[The 8 Best Lightweight Operating Systems for Raspberry Pi](https://www.makeuseof.com/tag/lightweight-operating-systems-raspberry-pi/)
+
+[Simple OS to run Tkinter Program](https://forums.raspberrypi.com/viewtopic.php?t=284516)
+
+[Launch a GUI Tkinter program on boot](https://raspberrypi.stackexchange.com/questions/98944/launch-a-gui-tkinter-program-on-boot)
+
+[How to get Python tkinter application to run automatically](https://stackoverflow.com/questions/76020133/how-to-get-python-tkinter-application-to-run-automatically-and-reliably-at-rpi)
