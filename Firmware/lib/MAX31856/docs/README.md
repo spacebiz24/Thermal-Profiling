@@ -1,3 +1,3 @@
 # MAX31856 Library
 
-Designed and Developed by [spacebiz24](https://github.com/spacebiz24)
+Made with ❤️ by [spacebiz24](https://github.com/spacebiz24)
