@@ -2,7 +2,7 @@
 
 Sensor Data Analysis and Troubleshooting Device
 
-## GUI component for a project intended for DRDO 
+## GUI component for troubleshooting purposes 
 
 - Automatically mounts any drive (storage - USB, MMC)
 - Copies data from the mounted drive and reboots
@@ -17,7 +17,7 @@ Sensor Data Analysis and Troubleshooting Device
 ### Note: Please do clone the repository and then install the dependencies.
 
 ```
-git clone https://github.com/DivakarGC/SDA-troubleshooting-device.git
+git clone https://github.com/spacebiz24/Thermal-Profiling.git
 
 pip install -r requirements.txt
 ```
