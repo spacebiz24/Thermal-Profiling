@@ -1,16 +1,14 @@
 # Temperature Thing Firmware
-<center>
-    <p>
-        <i>The firmware running the temperature sensing platform built for DRDO. 🌡️ </i>
-    </p>
-    <p>
-        <img src="https://img.shields.io/github/last-commit/spacebiz24/Thermal-Profiling?display_timestamp=author&style=for-the-badge&logo=platformio&logoColor=orange&color=blue" alt="last-commit" width="250">
-        <img src="https://img.shields.io/github/license/spacebiz24/Thermal-Profiling?style=for-the-badge&logo=unlicense&logoColor=white&color=blue" alt="license" width="200">
-        <br>
-        <img src="https://img.shields.io/github/contributors/spacebiz24/Thermal-Profiling?color=blue&style=for-the-badge&logo=contributor-covenant&logoColor=green" alt="contributors" width="200">
-        <img src="https://img.shields.io/github/actions/workflow/status/spacebiz24/Thermal-Profiling/main.yml?branch=main&style=for-the-badge&logo=github&logoColor=white&color=green" alt="ci" width="200">
-    </p>
-</center>
+<p align="center">
+    <i align="center">The firmware running the temperature sensing platform built for DRDO. 🌡️ </i>
+</p>
+<p align="center">
+    <img src="https://img.shields.io/github/last-commit/spacebiz24/Thermal-Profiling?display_timestamp=author&style=for-the-badge&logo=platformio&logoColor=orange&color=blue" alt="last-commit" width="250">
+    <img src="https://img.shields.io/github/license/spacebiz24/Thermal-Profiling?style=for-the-badge&logo=unlicense&logoColor=white&color=blue" alt="license" width="200">
+    <br>
+    <img src="https://img.shields.io/github/contributors/spacebiz24/Thermal-Profiling?color=blue&style=for-the-badge&logo=contributor-covenant&logoColor=green" alt="contributors" width="200">
+    <img src="https://img.shields.io/github/actions/workflow/status/spacebiz24/Thermal-Profiling/main.yml?branch=main&style=for-the-badge&logo=github&logoColor=white&color=green" alt="ci" width="200">
+</p>
 
 ___
 
@@ -94,28 +92,27 @@ The pipeline is triggered on every push to the repository and runs the firmware 
 and the same is configured using the `.github/workflows/main.yml` file.
 
 ## Authors and Reviewers
+<p align="center">
 <center>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;" align="center">
 <figure>
     <a href="https://github.com/spacebiz24">
         <img src="https://avatars.githubusercontent.com/u/78657717?v=4" title="spacebiz24" width="100">
     </a>
-    <figcaption>Siddhaanth S Iyer (Author)</figcaption>
 </figure>
 <figure>
     <a href="https://github.com/Eloquencere">
         <img src="https://avatars.githubusercontent.com/u/106532953?v=4" title="Eloquencere" width="100">
     </a>
-    <figcaption>TM Srirangarajan (Reviewer)</figcaption>
 </figure>
 <figure>
     <a href="https://github.com/Tejas-M-Nayak">
         <img src="https://avatars.githubusercontent.com/u/111493008?v=4" title="Tejas-M-Nayak" width="100">
     </a>
-    <figcaption>Tejas M Nayak (Reviewer)</figcaption>
 </figure>
 </div>
 </center>
+</p>
 
 ## License
 As most of the project except the SD card library is custom developed,
