@@ -120,14 +120,17 @@ void loop()
 ```
 
 ## Contributors
-<center>
-<figure>
-    <a href="https://github.com/spacebiz24">
-        <img src="https://avatars.githubusercontent.com/u/78657717?v=4" title="spacebiz24" width="200" height="200">
-    </a>
-    <figcaption>Siddhaanth Iyer</figcaption>
-</figure>
-</center>
+<p align="center">
+    <center>
+        <div style="display: flex; justify-content: center;" align="center">
+        <figure>
+            <a href="https://github.com/spacebiz24">
+                <img src="https://avatars.githubusercontent.com/u/78657717?v=4" title="spacebiz24" width="200" height="200">
+            </a>
+        </figure>
+        </div>
+    </center>
+</p>
 
 ## License
 As most of the project except the SD card library is custom developed,
