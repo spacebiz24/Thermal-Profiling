@@ -43,6 +43,32 @@ SdFat SD;
 File dataFile;
 
 /**
+ * \brief Function to indicate any failure
+ * \param None
+ * \return None
+ */
+void showFailure()
+{
+	digitalWrite(LED_PIN, HIGH);
+	delay(250);
+	digitalWrite(LED_PIN, LOW);
+	delay(250);
+}
+
+/**
+ * \brief Function to indicate successful initialisation
+ * \param None
+ * \return None
+ */
+void showSuccess()
+{
+	digitalWrite(LED_PIN, HIGH);
+	delay(1000);
+	digitalWrite(LED_PIN, LOW);
+	delay(1000);
+}
+
+/**
  * \brief Function to select a specific MUX pin
  * \param Pin_Number The pin to be selected (0-7)
  * \return None
@@ -96,12 +122,12 @@ void setup()
 	for (int i = 0; i < 3; i++)
 		pinMode(MUX_PINS[i], OUTPUT);
 	delayMicroseconds(10);
+	Serial.begin(9600);
 	digitalWrite(MAX_CS, HIGH);
 	digitalWrite(SD_CS, HIGH);
 	SD.begin(SD_CS);
 	SD.remove("data.txt");
 	SD.end();
-	Serial.begin(9600);
 }
 
 /// \brief Loop Function
