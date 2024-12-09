@@ -26,4 +26,5 @@ git clone https://github.com/spacebiz24/Thermal-Profiling.git
 
 pip install -r requirements.txt
 ```
-
+___
+Made with :heart: by [DivakarGC](https://github.com/DivakarGC)
