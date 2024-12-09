@@ -1,0 +1,29 @@
+Drill report for Temperature Thing With Thermocouple 3V3.kicad_pcb
+Created on 27-08-2024 08:05:44
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  +3.3V                     in1
+    L3 :  GND                       in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'Temperature Thing With Thermocouple 3V3-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (1170 holes)
+    T2  0.250mm  0.0098"  (2 holes)
+    T3  0.450mm  0.0177"  (4 holes)  (with 4 slots)
+    T4  1.000mm  0.0394"  (12 holes)
+    T5  2.000mm  0.0787"  (16 holes)
+
+    Total plated holes count 1204
+
+
+Drill file 'Temperature Thing With Thermocouple 3V3-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.950mm  0.0374"  (2 holes)
+
+    Total unplated holes count 2
