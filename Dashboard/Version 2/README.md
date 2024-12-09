@@ -1,4 +1,9 @@
-# SDA Troubleshooting Device
+# Version 2 of the Dashboard
+
+> [!WARNING]
+> This version is deprecated. The final version used is found in `/Thermoscope`.
+
+## SDA Troubleshooting Device
 
 Sensor Data Analysis and Troubleshooting Device
 
