@@ -91,7 +91,7 @@ The firmware is built using the PlatformIO framework and is tested using the Git
 The pipeline is triggered on every push to the repository and runs the firmware on a virtual environment
 and the same is configured using the `.github/workflows/main.yml` file.
 
-## Authors and Reviewers
+## Authors
 <p align="center">
 <center>
 <div style="display: flex; justify-content: center;" align="center">
@@ -100,6 +100,14 @@ and the same is configured using the `.github/workflows/main.yml` file.
         <img src="https://avatars.githubusercontent.com/u/78657717?v=4" title="spacebiz24" width="100">
     </a>
 </figure>
+</div>
+</center>
+</p>
+
+## Reviewers
+<p align="center">
+<center>
+<div style="display: flex; justify-content: center;" align="center">
 <figure>
     <a href="https://github.com/Eloquencere">
         <img src="https://avatars.githubusercontent.com/u/106532953?v=4" title="Eloquencere" width="100">
