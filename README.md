@@ -7,6 +7,7 @@ Repo --> Dashboard
 Repo --> Documentation
 Repo --> Firmware
 Repo --> Hardware
+Repo --> Thermoscope
 ```
 
 Each section explains more about itself in its own `README.md` file. Please look into them.
