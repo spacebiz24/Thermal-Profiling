@@ -44,3 +44,6 @@ ___
 [Launch a GUI Tkinter program on boot](https://raspberrypi.stackexchange.com/questions/98944/launch-a-gui-tkinter-program-on-boot)
 
 [How to get Python tkinter application to run automatically](https://stackoverflow.com/questions/76020133/how-to-get-python-tkinter-application-to-run-automatically-and-reliably-at-rpi)
+
+___
+Work was primarily done by [Eloquencere](https://github.com/Eloquencere) and [L-o-n-e-W-o-l-f](https://github.com/L-o-n-e-W-o-l-f)
