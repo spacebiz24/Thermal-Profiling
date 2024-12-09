@@ -1,6 +1,11 @@
-# Dashboard
+# Version 1 of the Dashboard
+This is version 1 of the dashboard, implemented on a PC that reads files from an SD card and displays data.
 
-## Links
+> [!WARNING]
+> This version is deprecated. The final version used is found in `/Thermoscope`.
+
+___
+## Helpful Links
 
 ### Tkinter
 [Use a Drag & Drop Editor to Make Tkinter Python GUI Applications!](https://www.youtube.com/watch?v=oLxFqpUbaAE)
@@ -15,7 +20,7 @@
 
 [How To Animate Widgets - Python Tkinter GUI Tutorial](https://www.youtube.com/watch?v=kvd6i1mXec8)
 
-#### Tkinter addons
+#### Tkinter Add-ons
 
 [The ultimate introduction to modern GUIs in Python w/ tkinter](https://www.youtube.com/watch?v=mop6g-c5HEY)
 
@@ -29,7 +34,7 @@
 
 [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/)
 
-### GUI on startup
+### GUI on Startup
 [Convert GUI App to Real Program - Python to exe to setup wizard](https://www.youtube.com/watch?v=p3tSLatmGvU)
 
 [The 8 Best Lightweight Operating Systems for Raspberry Pi](https://www.makeuseof.com/tag/lightweight-operating-systems-raspberry-pi/)
