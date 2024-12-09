@@ -11,7 +11,7 @@ found here.
 ## Contents
 1. [Functions List](#functions-list)
 1. [Usage](#usage)
-1. [Contributors](#contributors-list)
+1. [Contributors](#contributors)
 1. [License](#license)
 
 ## Functions List
@@ -120,14 +120,16 @@ void loop()
 ```
 
 ## Contributors
+<p align="center">
 <center>
+<div style="display: flex; justify-content: center;" align="center">
 <figure>
     <a href="https://github.com/spacebiz24">
         <img src="https://avatars.githubusercontent.com/u/78657717?v=4" title="spacebiz24" width="200" height="200">
     </a>
-    <figcaption>Siddhaanth Iyer</figcaption>
 </figure>
 </center>
+</p>
 
 ## License
 As most of the project except the SD card library is custom developed,
