@@ -4,6 +4,17 @@ This directory contains all the files that were used to build the final version 
 >[!NOTE]
 > This is the final version of the Visualizer app and has been tested and found to be stable. The APK can be downloaded without any issues.
 
+## Installation of APK
+**Step 1**: To install the APK download the `Thermoscope.apk` and open it on your Android phone.
+> [!NOTE]
+> The APK will only work on phones which run Android OS.
+
+**Step 2**: Click on the file and follow the steps presented to install.
+
+>[!NOTE]
+> Ignore any warnings presented, the app is completely safe to use
+
+**Step 3**: Use the app normally. Additional documentation of the App is found in the `/Documentation` folder.
 ___
 ## Authors
 <p align="center">
