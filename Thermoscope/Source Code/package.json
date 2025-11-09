@@ -13,7 +13,7 @@
     "@react-navigation/native": "^6.1.17",
     "@react-navigation/native-stack": "^6.10.0",
     "react": "18.2.0",
-    "react-native": "0.74.3",
+    "react-native": "0.82.1",
     "react-native-bouncy-checkbox": "^4.0.1",
     "react-native-charts-wrapper": "^0.6.0",
     "react-native-document-picker": "^9.3.0",
