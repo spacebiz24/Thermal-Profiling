@@ -1,6 +1,7 @@
 # Thermal Profiling on Fabrics
 
 This repository is divided into the following sections:
+
 ```mermaid
 graph TD;
 Repo --> Dashboard
